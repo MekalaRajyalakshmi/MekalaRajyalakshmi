@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Rajya Lakshmi (Lucky)</h1>
+<h1 align="center">Hi 👋 I'm Rajya Lakshmi </h1>
 <h3 align="center">B.Tech CSE | Full Stack Developer (Python & Django) | AI Enthusiast</h3>
 
 <p align="center">
